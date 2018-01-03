@@ -1,0 +1,1 @@
+<li><a href="[field:arcurl/]" target="_blank" title="[field:title/]" data-title="[field:title/]" data-lightbox="list_0001,0015,0016"><img src="[field:litpic/]" alt="[field:title/]" title="[field:title/]" /><span>[field:title/]</span></a></li>

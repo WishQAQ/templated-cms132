@@ -1,0 +1,1 @@
+<li><a href="{dede:field name='typeurl'/}" title="[field:typename/]" target="_blank">{dede:field name='typename'/}</a></li>

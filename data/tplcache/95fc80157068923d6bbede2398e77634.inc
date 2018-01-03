@@ -1,0 +1,1 @@
+<li class="i[field:global.autoindex/]"><a href="[field:arcurl/]">[field:title/]</a></li>

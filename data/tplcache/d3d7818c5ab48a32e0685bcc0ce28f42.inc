@@ -1,0 +1,1 @@
+<li><a href="{dede:field name='typeurl'/}" title="" target="_blank"> <img src="/templets/54/picture/00{dede:global.itemindex/}.gif" alt="" title="" /><span>{dede:field name='typename'/}</span></a></li>
